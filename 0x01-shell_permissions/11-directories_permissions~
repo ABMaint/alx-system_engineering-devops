@@ -1,0 +1,2 @@
+#!/bin/bash to all subdirectories
+chmod -R a+x 0x01-shell_permissions to all subdirectories
